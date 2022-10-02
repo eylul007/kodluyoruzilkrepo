@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-[Patika dev linkim]("https://app.patika.dev/eylulkose")
+[Patika dev linkim](https://app.patika.dev/eylulkose)
 
 ![Gorsel]("screenshot_md.png")
 
